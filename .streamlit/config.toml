@@ -1,0 +1,14 @@
+[theme]
+# Electric Violet-Blue accent
+primaryColor = "#6366F1"
+
+# Pure obsidian black background
+backgroundColor = "#07070B"
+
+# Deep charcoal for cards, container boxes, and inputs
+secondaryBackgroundColor = "#111119"
+
+# Clean soft-white text
+textColor = "#E2E8F0"
+
+font = "sans serif"
