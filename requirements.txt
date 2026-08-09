@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+numpy
+google-genai
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pypdf
+reportlab
+kaleido

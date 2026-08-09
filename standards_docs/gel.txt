@@ -1,0 +1,87 @@
+Rheological Properties (Gel Strength)
+5.5 Gel Strengths
+
+Unit: Same as Yield Point.
+
+Alternatives: Same as Yield Point.
+
+Apparatus:
+Six-speed viscometer. There are two readings for gel strengths: 10-second and 10-minute, with the speed of the viscometer set at 3 rpm. The fluid must have remained static prior to each test, and the highest peak reading will be reported.
+
+Applications:
+The gel strength quantifies the thixotropic behaviour of a fluid; its ability to have strength when static in order to suspend cuttings, and to flow when put under enough force. Ideally, the two values of gel strength should be close rather than progressively far apart.
+
+API Standard
+Parameter				Standard
+10 sec gel strength (lb/100 ft²)	2–5
+10 minute gel strength (lb/100 ft²)	2–35
+
+Rheological Models
+
+Rheological models are mathematical equations used to predict fluid behaviour across a wide range of shear rates and provide practical means of calculating pumping (pressure) requirements for a given fluid. Most drilling fluids are non-Newtonian and pseudoplastic and, therefore, hydraulic models use a number of approximations to arrive at practical equations.
+
+The three rheological models currently in use are:
+Bingham Plastic Model
+Power Law Model
+Herschel–Bulkley (Yield-Power Law, YPL) Model
+
+Bingham Plastic Model
+
+The Bingham Plastic model describes laminar flow using the following equation:
+
+τ=YP+PV× γ
+Where:
+
+τ = Measured shear stress (lb/100 ft²)
+YP = Yield Point (lb/100 ft²)
+PV = Plastic Viscosity (cP)
+γ̇ = Shear rate (sec⁻¹)
+
+Power Law Model
+
+The Power Law model assumes that all fluids are pseudoplastic in nature and is defined by the following equation:
+
+τ=K(γ)
+n
+
+Where:
+
+τ = Shear stress (dynes/cm²)
+K = Consistency Index
+γ = Shear rate (sec⁻¹)
+n = Power Law Index
+
+Power Law Index:
+
+n=3.32log(θ300/θ600)
+
+Consistency Index:
+
+K=θ300/511^n
+
+Power Law Model (Continued)
+
+The constant "n" is called the Power Law Index, and its value indicates the degree of non-Newtonian behaviour over a given shear rate range.
+
+If n = 1, the fluid behaves as a Newtonian fluid.
+As n decreases, the fluid becomes more non-Newtonian, and the viscosity decreases with increasing shear rate.
+The constant n has no units.
+
+The K value is called the Consistency Index and is a measure of the thickness of the mud.
+
+The constant K is defined as the shear stress at a shear rate of one reciprocal second.
+
+An increase in the value of K indicates an increase in the overall hole-cleaning effectiveness of the fluid.
+
+The units of K are:
+
+lb·s/100 ft²
+dyne·sec/cm²
+N/cm²
+The Power Law Model describes three types of fluids:
+n = 1: Newtonian fluid
+n < 1: Non-Newtonian (Pseudoplastic) fluid
+n > 1: Dilatant fluid
+	​
+
+	​

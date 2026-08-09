@@ -1,0 +1,77 @@
+Drilling Fluid Rheological Properties
+
+Overview
+
+Rheological properties describe how a drilling fluid flows under applied
+forces. These properties are essential for efficient drilling
+operations, cuttings transport, wellbore cleaning, pressure control, and
+hydraulic performance.
+
+Plastic Viscosity (PV)
+
+Plastic Viscosity represents the internal resistance to flow caused
+mainly by the concentration of solids in the drilling fluid. Formula: PV
+= θ600 − θ300 Unit: cP
+
+Interpretation: - High PV may indicate excessive solids. - Low PV
+generally indicates lower frictional resistance.
+
+Apparent Viscosity (AV)
+
+Apparent Viscosity represents the overall viscosity of the drilling
+fluid at 600 RPM. Formula: AV = θ600 / 2 Unit: cP
+
+Yield Point (YP)
+
+Yield Point measures the attractive forces between suspended particles
+and indicates the fluid’s ability to carry drill cuttings. Formula: YP =
+θ300 − PV Unit: lb/100 ft²
+
+Interpretation: - High YP improves cuttings transport but may increase
+pump pressure. - Low YP may reduce hole cleaning efficiency.
+
+Yield Point / Plastic Viscosity Ratio (YP/PV or Transport Index)
+
+Formula: TI = YP / PV
+
+Higher values generally indicate better carrying capacity relative to
+viscosity.
+
+Flow Behavior Index (n)
+
+The Flow Behavior Index describes whether the drilling fluid behaves
+like a Newtonian or non-Newtonian fluid. Formula: n = 3.32 × log10(θ600
+/ θ300)
+
+Interpretation: - n = 1: Newtonian fluid. - n < 1: Shear-thinning
+behavior (preferred for most drilling operations). - n > 1:
+Shear-thickening behavior.
+
+Consistency Index (K)
+
+The Consistency Index measures the thickness of a non-Newtonian drilling
+fluid. Formula: K = θ300 / (511^n)
+
+Higher K values indicate a thicker fluid.
+
+Importance of Rheology
+
+Good rheological properties help: - Transport drill cuttings
+efficiently. - Suspend cuttings when circulation stops. - Reduce
+drilling problems. - Optimize hydraulic performance. - Maintain wellbore
+stability. - Improve drilling efficiency.
+
+Common Fann Viscometer Readings
+
+θ600: Dial reading at 600 RPM θ300: Dial reading at 300 RPM
+
+These readings are commonly used to calculate PV, AV, YP, n, and K.
+
+Summary
+
+Key properties: - Plastic Viscosity (PV) - Apparent Viscosity (AV) -
+Yield Point (YP) - Transport Index (YP/PV) - Flow Behavior Index (n) -
+Consistency Index (K)
+
+Together, these properties evaluate drilling fluid performance, optimize
+hole cleaning, and improve drilling efficiency and well control.
