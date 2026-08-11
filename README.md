@@ -1,7 +1,7 @@
 # 🧪 RheoFlow AI — Multi-Sample Drilling Fluid Analyzer
 RheoFlow AI is a high-end web application and AI assistant designed for drilling fluid engineers. It automates calculations, renders interactive Plotly visualizations, compares multiple mud formulations side-by-side, and utilizes Retrieval-Augmented Generation (RAG) to evaluate results against **API RP 13B-1** recommended practices.
 ## Project Structure
-*rheoflow-ai/
+* rheoflow-ai/
 * ├── .streamlit/
 * │   └── config.toml            (Sleek Obsidian dark mode configuration)
 * ├── standards_docs/
