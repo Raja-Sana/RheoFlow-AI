@@ -6,13 +6,13 @@ RheoFlow AI is a high-end web application and AI assistant designed for drilling
 * │   └── config.toml            (Sleek Obsidian dark mode configuration)
 * ├── standards_docs/
 * │   └── api_standards.txt     (Local API RP 13B-1 reference documents)
-* ├── faiss_index/              # Auto-generated local vector database index
-* ├── app.py                    # Main Streamlit web interface & RAG pipeline
-* ├── calculations.py           # Core math and validation logic
-* ├── visualizations.py         # Plotly interactive charting script
-* ├── create_vector_db.py       # Script to compile documents into FAISS
-* ├── persistent_sessions.db    # SQLite file storing persistent user sessions
-* └── requirements.txt          # Package dependencies for cloud deployment
+* ├── faiss_index/              (Auto-generated local vector database index)
+* ├── app.py                    (Main Streamlit web interface & RAG pipeline)
+* ├── calculations.py           (Core math and validation logic)
+* ├── visualizations.py         (Plotly interactive charting script)
+* ├── create_vector_db.py       (Script to compile documents into FAISS)
+* ├── persistent_sessions.db    (SQLite file storing persistent user sessions)
+* └── requirements.txt          (Package dependencies for cloud deployment)
 ## 🚀 Technologies Used
 * Frontend/UI: Streamlit, CSS, LaTeX.
 * Math & Charts: Pandas, NumPy, Plotly (Interactive charts).
