@@ -3,9 +3,9 @@ RheoFlow AI is a high-end web application and AI assistant designed for drilling
 ## Project Structure
 *rheoflow-ai/
 * ├── .streamlit/
-* │   └── config.toml           # Sleek Obsidian dark mode configuration
+* │   └── config.toml            (Sleek Obsidian dark mode configuration)
 * ├── standards_docs/
-* │   └── api_standards.txt     # Local API RP 13B-1 reference documents
+* │   └── api_standards.txt     (Local API RP 13B-1 reference documents)
 * ├── faiss_index/              # Auto-generated local vector database index
 * ├── app.py                    # Main Streamlit web interface & RAG pipeline
 * ├── calculations.py           # Core math and validation logic
