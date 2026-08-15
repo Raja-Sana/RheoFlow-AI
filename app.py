@@ -221,6 +221,9 @@ with st.expander("📖 View API RP 13B-1 Rheology Formulas"):
 GEMINI_API_KEYS = [
     st.secrets["GEMINI_API_KEY_1"],
     st.secrets["GEMINI_API_KEY_2"], 
+    st.secrets["GEMINI_API_KEY_3"],
+    st.secrets["GEMINI_API_KEY_4"],
+    st.secrets["GEMINI_API_KEY_5"], 
 ]
 
 # Unique User Session ID setup using query parameters
