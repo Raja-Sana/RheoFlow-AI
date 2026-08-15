@@ -343,7 +343,7 @@ INSTRUCTIONS:
 USER QUESTION: "{query}"
 """
             response = key_client.models.generate_content(
-                model="gemini-flash-latest",
+                model="gemini-2.5-flash-lite",
                 contents=prompt
             )
             return response.text, None
