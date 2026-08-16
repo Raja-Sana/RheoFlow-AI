@@ -274,7 +274,7 @@ USER QUESTION: "{query}"
         try:
             key_client = genai.Client(api_key=api_key)
             response = key_client.models.generate_content(
-                model="gemini-3.5-flash",  # Jo Google ke pas available hai
+                model="gemini-flash-latest",  # Jo Google ke pas available hai
                 contents=prompt
             )
             return response.text, None
